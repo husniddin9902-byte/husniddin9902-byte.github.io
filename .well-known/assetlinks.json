@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uz.hetk.navoiy",
+    "sha256_cert_fingerprints": [
+      "3B:A5:F9:ED:64:50:3A:B0:20:73:81:89:36:37:29:CB:06:85:47:52:19:69:63:B2:1C:DB:6A:23:4B:8D:0E:A2"
+    ]
+  }
+}]
